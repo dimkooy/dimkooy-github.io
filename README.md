@@ -1,1 +1,1 @@
-# dimkooy-github.io
+# dimkooy.github.io
